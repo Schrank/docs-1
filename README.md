@@ -1,10 +1,10 @@
 # Bienvenido
 
-Welcome to the dockware documentation!
+¡Bienvenido a la documentación del dockware!
 
-This is your knowledge base from installing docker, starting your first shopware on to developing plugins or even Shopware with dockware \#contribution.
+Esta es su base de conocimientos, desde la instalación de Docker, el inicio de su primer shopware hasta el desarrollo de complementos o incluso Shopware con dockware \#contribution.
 
-If you have anything that might be missing, don't hesitate to contact us. Thank You!
+Si tiene algo que pueda faltar, no dude en contactarnos. ¡Gracias!
 
 
 
